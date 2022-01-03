@@ -178,10 +178,8 @@ const Header = ({token}) => {
 									
 									<div className="acc-mb svg-mb">
 										<span	onClick={() => mostrarLogin()}	title="User Icon"	className="icon-user"	data-user-mobile-toggle="">
-											
 												
 											<div className="icon-user-circle">RS</div>
-											
 										
 										</span>
 									</div>
